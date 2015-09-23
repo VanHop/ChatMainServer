@@ -1,0 +1,36 @@
+19/09 09:35:46 Thread Server started
+19/09 09:35:46 Server start listening on 9999
+19/09 09:38:40 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+19/09 09:38:44 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+19/09 09:40:20 Đã tắt kết nối đến Subserver có cổng là 8888
+19/09 09:40:23 Đã tắt kết nối đến Subserver có cổng là 7777
+19/09 09:44:06 Thread Server started
+19/09 09:44:06 Server start listening on 9999
+19/09 09:46:46 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+19/09 09:46:52 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+19/09 09:48:35 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+19/09 09:48:58 gửi danh sách người dùng cho a
+19/09 09:49:09 gửi danh sách người dùng cho b
+19/09 09:49:22 gửi danh sách người dùng cho c
+19/09 09:49:39 Đã nhận được 1 request từ Subserver 6666
+19/09 09:49:39 Đã gửi tin nhắn đến b trong subserver có cổng 7777
+19/09 09:49:45 Đã nhận được 1 request từ Subserver 6666
+19/09 09:49:45 Đã gửi tin nhắn đến c trong subserver có cổng 8888
+19/09 09:49:55 Đã nhận yêu cầu tạo group của subserver 6666
+19/09 09:49:55 Đã gửi yêu cầu tạo group cho subserver 7777
+19/09 09:49:55 Đã gửi yêu cầu tạo group cho subserver 8888
+19/09 09:51:22 gửi danh sách người dùng cho a
+19/09 09:51:36 gửi danh sách người dùng cho b
+19/09 09:51:48 gửi danh sách người dùng cho c
+19/09 09:52:20 Đã nhận yêu cầu tạo group của subserver 6666
+19/09 09:52:20 Đã gửi yêu cầu tạo group cho subserver 7777
+19/09 09:52:20 Đã gửi yêu cầu tạo group cho subserver 8888
+19/09 09:52:27 Đã nhận yêu cầu của subserver 6666
+19/09 09:52:27 Đã gửi tin nhắn cho subserver 7777
+19/09 09:52:27 Đã gửi tin nhắn cho subserver 8888
+19/09 09:52:52 Đã nhận yêu cầu của subserver 6666
+19/09 09:52:52 Đã gửi tin logout cho subserver 7777
+19/09 09:52:52 Đã gửi tin logout cho subserver 8888
+19/09 09:53:01 Đã nhận yêu cầu của subserver 7777
+19/09 09:53:01 Đã gửi tin logout cho subserver 8888
+19/09 09:53:14 Đã tắt kết nối đến Subserver có cổng là 6666

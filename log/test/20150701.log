@@ -1,0 +1,187 @@
+01/07 09:57:03 ThreadServer started
+01/07 09:57:52 ThreadServer started
+01/07 09:57:52 Server start listening on 9999
+01/07 10:01:24 ThreadServer started
+01/07 10:01:24 Server start listening on 9999
+01/07 10:05:01 ThreadServer started
+01/07 10:05:01 Server start listening on 9999
+01/07 10:05:01 co
+01/07 10:05:09 co
+01/07 10:07:45 ThreadServer started
+01/07 10:07:45 Server start listening on 9999
+01/07 10:07:45 co
+01/07 10:07:46 duoi
+01/07 10:07:46 loi
+01/07 10:07:46 co
+01/07 10:14:39 ThreadServer started
+01/07 10:14:39 Server start listening on 9999
+01/07 10:14:39 co
+01/07 10:14:39 duoi
+01/07 10:16:31 ThreadServer started
+01/07 10:16:31 Server start listening on 9999
+01/07 10:16:31 co
+01/07 10:16:35 duoi
+01/07 10:16:39 loi
+01/07 10:16:39 co
+01/07 10:17:30 ThreadServer started
+01/07 10:17:30 Server start listening on 9999
+01/07 10:17:30 co
+01/07 10:17:34 duoi
+01/07 10:17:34 loi
+01/07 10:17:34 co
+01/07 10:18:21 ThreadServer started
+01/07 10:18:21 Server start listening on 9999
+01/07 10:18:21 co
+01/07 10:18:24 duoi
+01/07 10:18:24 Đã có server con kết nối đến với cổng 7777
+01/07 10:18:24 loi
+01/07 10:18:24 co
+01/07 10:18:57 ThreadServer started
+01/07 10:18:57 Server start listening on 9999
+01/07 10:18:57 co
+01/07 10:19:01 duoi
+01/07 10:19:04 Đã có server con kết nối đến với cổng 7777
+01/07 10:24:11 ThreadServer started
+01/07 10:24:11 Server start listening on 9999
+01/07 10:24:11 co
+01/07 10:24:17 duoi
+01/07 10:24:17 Đã có server con kết nối đến với cổng 7777
+01/07 10:42:43 ThreadServer started
+01/07 10:42:43 Server start listening on 9999
+01/07 10:42:43 co
+01/07 10:42:46 duoi
+01/07 10:42:46 Đã có server con kết nối đến với cổng 7777
+01/07 10:42:46 đã xong 7777
+01/07 10:42:46 co
+01/07 10:44:08 ThreadServer started
+01/07 10:44:08 Server start listening on 9999
+01/07 10:44:08 co
+01/07 10:44:12 duoi
+01/07 10:44:12 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 10:44:12 co
+01/07 10:44:17 duoi
+01/07 10:44:17 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 10:44:17 co
+01/07 10:44:20 duoi
+01/07 10:44:20 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 10:44:20 co
+01/07 10:45:03 duoi
+01/07 10:45:03 loi
+01/07 10:45:03 co
+01/07 10:48:17 ThreadServer started
+01/07 10:48:17 Server start listening on 9999
+01/07 10:48:22 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 10:48:25 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 10:48:32 Subserver có cổng là 7777 đã tắt
+01/07 10:49:26 Subserver có cổng là 6666 đã tắt
+01/07 10:53:14 ThreadServer started
+01/07 10:53:14 Server start listening on 9999
+01/07 10:53:25 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 10:53:28 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 10:53:34 Subserver có cổng là 7777 đã tắt
+01/07 10:58:14 Subserver có cổng là 6666 đã tắt
+01/07 11:00:27 ThreadServer started
+01/07 11:00:27 Server start listening on 9999
+01/07 11:00:46 ThreadServer started
+01/07 11:09:58 ThreadServer started
+01/07 11:10:04 Server start listening on 9999
+01/07 11:10:08 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 11:10:11 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 11:11:07 Subserver có cổng là 6666 đã tắt
+01/07 11:11:12 Subserver có cổng là 7777 đã tắt
+01/07 11:11:24 ThreadServer started
+01/07 11:11:24 Server start listening on 9999
+01/07 11:11:30 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 11:11:32 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 11:12:27 Subserver có cổng là 7777 đã tắt
+01/07 11:12:30 Subserver có cổng là 6666 đã tắt
+01/07 12:12:23 ThreadServer started
+01/07 12:12:23 Server start listening on 9999
+01/07 14:29:14 ThreadServer started
+01/07 14:29:14 Server start listening on 9999
+01/07 14:52:41 ThreadServer started
+01/07 14:52:41 Server start listening on 9999
+01/07 14:52:41 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 14:52:41 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 14:52:41 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 14:59:41 ThreadServer started
+01/07 14:59:41 Server start listening on 9999
+01/07 15:01:30 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 15:02:33 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 15:03:46 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 15:11:43 ThreadServer started
+01/07 15:11:43 Server start listening on 9999
+01/07 15:12:07 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 15:12:10 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 15:12:13 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 15:15:59 Subserver có cổng là 7777 đã tắt
+01/07 15:15:59 Subserver có cổng là 6666 đã tắt
+01/07 15:15:59 Subserver có cổng là 8888 đã tắt
+01/07 15:25:11 ThreadServer started
+01/07 15:25:11 Server start listening on 9999
+01/07 15:25:17 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 15:25:21 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 15:25:26 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 15:53:17 Thread destroyed
+01/07 15:53:28 ThreadServer started
+01/07 15:53:28 Error occured: Address already in use: JVM_Bind
+01/07 15:55:07 ThreadServer started
+01/07 15:55:07 Server start listening on 9999
+01/07 15:55:07 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 15:55:07 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 15:55:07 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:01:36 ThreadServer started
+01/07 16:01:36 Server start listening on 9999
+01/07 16:01:36 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 16:01:36 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 16:01:36 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:24:30 ThreadServer started
+01/07 16:24:30 Server start listening on 9999
+01/07 16:24:40 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:24:49 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 16:24:55 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 16:28:37 ThreadServer started
+01/07 16:28:37 Server start listening on 9999
+01/07 16:28:44 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:28:57 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 16:29:03 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 16:31:15 ThreadServer started
+01/07 16:31:15 Server start listening on 9999
+01/07 16:31:16 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 16:31:16 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 16:31:17 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:39:04 ThreadServer started
+01/07 16:39:04 Server start listening on 9999
+01/07 16:39:27 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:39:31 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 16:39:35 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 16:45:49 ThreadServer started
+01/07 16:45:49 Server start listening on 9999
+01/07 16:45:55 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:45:57 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 16:46:00 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 16:49:18 ThreadServer started
+01/07 16:49:18 Server start listening on 9999
+01/07 16:49:31 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 16:49:32 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 16:49:32 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:50:20 Subserver có cổng là 6666 đã tắt
+01/07 16:50:30 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 16:51:20 Subserver có cổng là 7777 đã tắt
+01/07 16:51:20 Subserver có cổng là 6666 đã tắt
+01/07 16:51:20 Subserver có cổng là 8888 đã tắt
+01/07 21:07:56 ThreadServer started
+01/07 21:07:56 Server start listening on 9999
+01/07 21:08:05 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 21:08:10 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 21:08:17 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 21:18:16 ThreadServer started
+01/07 21:18:16 Server start listening on 9999
+01/07 21:18:25 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+01/07 21:18:26 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+01/07 21:18:26 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 21:20:21 Subserver có cổng là 6666 đã tắt
+01/07 21:30:35 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+01/07 23:05:54 Subserver có cổng là 8888 đã tắt
+01/07 23:05:54 Subserver có cổng là 7777 đã tắt
+01/07 23:05:54 Subserver có cổng là 6666 đã tắt

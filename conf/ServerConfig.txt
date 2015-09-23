@@ -1,0 +1,11 @@
+Url==jdbc:oracle:thin:@10.15.20.99:1521:prc
+UserName==ocg
+Password==ocg
+LogDir==SystemDir
+LogFile==error.log
+OutputFile==Output.log
+ActionLog==action.log
+PortID==1186
+KeepLogFileOnDay==10
+MaxFileLogSave==20
+ConnectionPoolSize==66

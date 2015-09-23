@@ -1,0 +1,93 @@
+08/07 16:33:47 Thread Server started
+08/07 16:33:47 Server start listening on 9999
+08/07 16:33:52 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+08/07 16:34:00 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+08/07 16:34:04 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+08/07 16:34:28 Gửi danh sách người dùng cho username
+08/07 16:34:37 Gửi danh sách người dùng cho username
+08/07 16:34:45 Gửi danh sách người dùng cho username
+08/07 16:34:55 Gửi danh sách người dùng cho username
+08/07 16:36:32 Gửi danh sách người dùng cho username
+08/07 16:37:01 Đã tắt kết nối đến Subserver có cổng là 8888
+08/07 16:37:02 Đã tắt kết nối đến Subserver có cổng là 7777
+08/07 16:37:03 Đã tắt kết nối đến Subserver có cổng là 6666
+08/07 16:37:30 Thread Server started
+08/07 16:37:30 Server start listening on 9999
+08/07 16:37:34 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+08/07 16:37:38 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+08/07 16:37:41 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+08/07 16:37:53 Gửi danh sách người dùng cho username
+08/07 16:38:01 Gửi danh sách người dùng cho username
+08/07 16:38:10 Gửi danh sách người dùng cho username
+08/07 16:38:18 Gửi danh sách người dùng cho username
+08/07 16:39:13 Đã nhận được 1 request từ Subserver 6666
+08/07 16:39:13 Đã gửi tin nhắn đến c trong subserver có cổng 7777
+08/07 16:39:42 Đã tắt kết nối đến Subserver có cổng là 7777
+08/07 16:39:42 Đã tắt kết nối đến Subserver có cổng là 8888
+08/07 16:39:42 Đã tắt kết nối đến Subserver có cổng là 6666
+08/07 16:39:42 Thread Server stopped
+08/07 16:40:09 Thread Server started
+08/07 16:40:09 Server start listening on 9999
+08/07 16:40:09 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+08/07 16:40:10 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+08/07 16:40:10 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+08/07 16:40:38 Gửi danh sách người dùng cho username
+08/07 16:43:14 Đã tắt kết nối đến Subserver có cổng là 8888
+08/07 16:43:14 Đã tắt kết nối đến Subserver có cổng là 7777
+08/07 16:43:15 Đã tắt kết nối đến Subserver có cổng là 6666
+08/07 17:07:33 Thread Server started
+08/07 17:07:33 Server start listening on 9999
+08/07 17:07:37 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+08/07 17:07:40 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+08/07 17:07:45 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+08/07 17:07:55 gửi danh sách người dùng cho a
+08/07 17:08:07 gửi danh sách người dùng cho b
+08/07 17:08:20 gửi danh sách người dùng cho c
+08/07 17:08:29 gửi danh sách người dùng cho d
+08/07 17:09:57 Đã nhận yêu cầu tạo group của subserver 6666
+08/07 17:09:57 Đã gửi yêu cầu tạo group cho subserver 7777
+08/07 17:10:12 Đã nhận yêu cầu của subserver 6666
+08/07 17:10:12 Đã gửi tin nhắn cho subserver 7777
+08/07 17:10:47 Đã nhận yêu cầu của subserver 6666
+08/07 17:10:47 Đã gửi update group cho subserver 7777
+08/07 17:10:47 Đã gửi update group cho subserver 8888
+08/07 17:13:25 Đã nhận yêu cầu của subserver 8888
+08/07 17:13:25 Đã gửi tin logout cho subserver 7777
+08/07 17:13:25 Đã gửi tin logout cho subserver 6666
+08/07 17:13:31 Đã nhận yêu cầu của subserver 6666
+08/07 17:13:31 Đã gửi tin logout cho subserver 7777
+08/07 17:13:36 Đã nhận yêu cầu của subserver 6666
+08/07 17:13:36 Đã gửi tin logout cho subserver 7777
+08/07 17:13:47 Đã tắt kết nối đến Subserver có cổng là 8888
+08/07 17:13:48 Đã tắt kết nối đến Subserver có cổng là 7777
+08/07 17:13:49 Đã tắt kết nối đến Subserver có cổng là 6666
+08/07 17:16:46 Thread Server started
+08/07 17:16:46 Server start listening on 9999
+08/07 17:16:47 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+08/07 17:16:47 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+08/07 17:17:14 gửi danh sách người dùng cho d
+08/07 17:17:22 Đã tắt kết nối đến Subserver có cổng là 7777
+08/07 17:17:23 Đã tắt kết nối đến Subserver có cổng là 6666
+08/07 17:45:09 Thread Server started
+08/07 17:45:09 Server start listening on 9999
+08/07 17:45:11 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+08/07 17:45:14 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+08/07 17:45:16 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+08/07 17:45:29 gửi danh sách người dùng cho a
+08/07 17:45:40 gửi danh sách người dùng cho b
+08/07 17:45:42 Đã nhận được 1 request từ Subserver 7777
+08/07 17:45:42 Đã gửi tin nhắn đến a trong subserver có cổng 6666
+08/07 17:46:01 Đã nhận được 1 request từ Subserver 6666
+08/07 17:46:01 Đã gửi tin nhắn đến b trong subserver có cổng 7777
+08/07 23:03:31 Thread Server started
+08/07 23:03:31 Server start listening on 9999
+08/07 23:03:37 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 6666
+08/07 23:03:42 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 7777
+08/07 23:03:46 Đã có Subserver kết nối đến cổng 9999 và đang lắng nghe ở cổng 8888
+08/07 23:05:11 gửi danh sách người dùng cho a
+08/07 23:05:35 gửi danh sách người dùng cho b
+08/07 23:05:45 gửi danh sách người dùng cho c
+08/07 23:06:20 Đã nhận được 1 request từ Subserver 6666
+08/07 23:06:20 Đã gửi tin nhắn đến c trong subserver có cổng 7777
+08/07 23:06:38 Đã nhận được 1 request từ Subserver 6666
+08/07 23:06:38 Đã gửi file cho c trong subserver 7777
